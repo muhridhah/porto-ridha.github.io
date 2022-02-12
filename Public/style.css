@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #f6d3ff;
+}
+#Project {
+  background-color: #f6d3ff;
+}
+.footer {
+  min-height: 100px;
+  background-color: #9e6daa;
+}
+section {
+  padding-top: 5rem;
+}
